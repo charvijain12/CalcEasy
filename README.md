@@ -1,11 +1,29 @@
-# Simple-Calculator
+# Simple Calculator
+The Simple Calculator project is a Python implementation of a basic calculator. It allows users to perform simple arithmetic operations, including addition, subtraction, multiplication, and division, by taking input from the user and displaying the result on the console. The calculator is designed to be easy to use, with a simple command-line interface that guides the user through the process of entering the numbers and operation they want to perform.
 
-This program is a simple calculator that allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also has the option to calculate the square of a given number.
+## Usage
+To use the Simple Calculator, simply run the `calculator.py` file from the command line. The program will prompt you to enter the first number, the operation you want to perform, and the second number. After you enter these values, the program will display the result of the operation on the console.
 
-The program first prompts the user to choose an option from a menu, and then uses a switch statement to execute the corresponding operation based on the user's choice. It also includes some input validation, such as checking that the user's choice is within the specified range, and checking that the divisor is not zero when performing division.
+## Supported Operations
+The Simple Calculator supports the following arithmetic operations:
 
-The program uses the scanf() function to read input from the user, and the printf() function to output the results.
+1. Addition (+)
 
-One potential issue with this program is that it assumes that the user will always enter valid input. If the user enters invalid input, such as a non-numeric value, the program may behave unpredictably or crash. To address this, the program could include additional input validation, such as checking that the user has entered a valid numeric value before attempting to use it in a calculation.
+2. Subtraction (-)
 
-Also, in case of choosing option 6 for exit, return 0; statement should be used instead of return;.
+3. Multiplication (*)
+
+4. Division (/)
+
+
+## Example
+Here's an example of using the Simple Calculator to add two numbers:
+```
+Enter the first number: 5
+Enter the operation (+, -, *, /): +
+Enter the second number: 3
+Result: 8
+```
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
