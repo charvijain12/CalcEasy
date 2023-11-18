@@ -1,8 +1,8 @@
-# CalcEasy: Simple Calculator
+# CalcEasy: Simple Calculator 🧮
 
-Welcome to **CalcEasy**, a simple calculator implemented in C. This project provides users with the capability to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. The calculator is designed to be user-friendly, featuring a straightforward command-line interface that guides users through the process of entering numbers and choosing operations.
+Welcome to **CalcEasy**, a simple calculator implemented in C. This project provides users with the capability to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. The calculator is designed to be user-friendly, featuring a straightforward command-line interface that guides users through the process of entering numbers and choosing operations. 🖩🌟
 
-## Usage
+## Usage 🚀
 
 To use the Simple Calculator, follow these steps:
 
@@ -22,7 +22,7 @@ To use the Simple Calculator, follow these steps:
 
 5. The program will display the result on the console.
 
-## Supported Operations
+## Supported Operations ⚙️
 
 The Simple Calculator supports the following arithmetic operations:
 
@@ -32,7 +32,7 @@ The Simple Calculator supports the following arithmetic operations:
 4. **Division (/)**
 5. **Squares**
 
-## Example
+## Example 📝
 
 Here's an example of using the Simple Calculator to perform addition:
 
@@ -42,14 +42,14 @@ Here's an example of using the Simple Calculator to perform addition:
 
 You can explore other operations as well, including subtraction, multiplication, division, and squaring numbers.
 
-## Note
+## Note 📌
 
 - The program includes input validation to ensure you choose a valid option and to prevent division by zero.
 
 - To exit the program, choose option 6.
 
-## License
+## License 📄
 
 This project is licensed under the MIT License, granting you the freedom to use, modify, and distribute the code as needed. For more details, please refer to the `LICENSE` file.
 
-We hope you find **CalcEasy** a helpful and easy-to-use tool for performing basic arithmetic calculations. If you have any questions or need assistance, please don't hesitate to reach out.
+We hope you find **CalcEasy** a helpful and easy-to-use tool for performing basic arithmetic calculations. If you have any questions or need assistance, please don't hesitate to reach out. 🙌
